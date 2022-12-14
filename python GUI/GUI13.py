@@ -9,10 +9,8 @@ def every_100(text):
             final_text += "\n"
     return final_text
 
-
-
 root = Tk()
-root.title("CodeWithHarry News - Aapka Apna Akhabaar")
+root.title("Aapka Apna Akhabaar")
 root.geometry("1000x1000")
 
 texts = []
